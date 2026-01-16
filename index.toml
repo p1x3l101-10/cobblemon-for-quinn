@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "autosign/hooks/pre-commit"
+hash = "dbfe6adcf03a3b78a59dc2535b8aaa3e2c1a9ea248bc4b1b7ccb908074c158ce"
+
+[[files]]
+file = "autosign/init"
+hash = "79d540dfb08bf3c968eee57c3e24742de6411653b7cd70a256e5f49c994429d8"
+
+[[files]]
+file = "autosign/signingkey.pub"
+hash = "db1059e40062a06fdd42eaee5836c364b6ba6ddd35dd817f7dee700cdd99d32a"
+
+[[files]]
+file = "autosign/signingkey.sec"
+hash = "9e43629d841877263b4779761afcc9652242914e04c68020f0eab59fcae3c30b"
+
+[[files]]
+file = "unsup.ini"
+hash = "741eed7b7ea1d4434f662c2ef1147279c86b3f63386940e4ccf8b274c2fa3a3f"
