@@ -22,7 +22,31 @@ jobs:
           bash -c "rm -rf $(cat .packwizignore | xargs)"
           echo "hash-format = \"sha256\"" > index.toml
           /usr/local/bin/packwiz refresh --build
-          
+  sign_files:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Get key
+        env:
+          SIGNINGKEY_BASE64: ${{ secrets.SIGNINGKEY_BASE64 }}
+        run: |
+          mkdir -p ~/.minisign
+          echo "$SIGNINGKEY_BASE64" | base64 --decode > ~/.minisign/minisign.key
+      - name: Sign pack file
+        uses: thomasdesr/minisign-action@v1
+        with:
+          args: -Slm main/pack.toml -x main/unsup.sig
+          password: ""
+      - name: Sign unsup file
+        uses: thomasdesr/minisign-action@v1
+        with:
+          args: -Slm main/unsup.ini -x main/unsup.ini.sig
+          password: ""
+      - name: Remove key
+        run:
+          rm ~/.minisign/minisign.key
+  upload_artifacts:
+    runs-on: ubuntu-24.04
+    steps:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
