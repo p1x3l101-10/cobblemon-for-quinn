@@ -1,6 +1,540 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+
+[[files]]
+file = "config/PaginatedAdvancements.json5"
+
+[[files]]
+file = "config/PastureLoot.json"
+
+[[files]]
+file = "config/VillagerConfig/villagerconfig.json5"
+
+[[files]]
+file = "config/accessories.json5"
+
+[[files]]
+file = "config/accessories_compat.json5"
+
+[[files]]
+file = "config/advancementdisable.toml"
+
+[[files]]
+file = "config/advancementplaques.toml"
+
+[[files]]
+file = "config/beautify.json"
+
+[[files]]
+file = "config/betterf3.json"
+
+[[files]]
+file = "config/betterthirdperson.json5"
+
+[[files]]
+file = "config/biome_replacer.properties"
+
+[[files]]
+file = "config/brb.toml"
+
+[[files]]
+file = "config/capture_xp.json"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+
+[[files]]
+file = "config/cobblecuisine.json"
+
+[[files]]
+file = "config/cobbledollars/bank.json"
+
+[[files]]
+file = "config/cobbledollars/client.json"
+
+[[files]]
+file = "config/cobbledollars/common.json"
+
+[[files]]
+file = "config/cobbledollars/default_shop.json"
+
+[[files]]
+file = "config/cobblemon-additions/cobblemon-additions.json"
+
+[[files]]
+file = "config/cobblemon/main.json"
+
+[[files]]
+file = "config/cobblemon/starters.json"
+
+[[files]]
+file = "config/cobblenav/client-config.json"
+
+[[files]]
+file = "config/cobblenav/server-config.json"
+
+[[files]]
+file = "config/cobbreeding/encryption"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+
+[[files]]
+file = "config/comforts-common.toml"
+
+[[files]]
+file = "config/comforts-server.toml"
+
+[[files]]
+file = "config/continuity.json"
+
+[[files]]
+file = "config/customsplashscreen.json"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+
+[[files]]
+file = "config/customsplashscreen/square_logo.png"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+
+[[files]]
+file = "config/disabled_sounds.json"
+
+[[files]]
+file = "config/entity_model_features.json"
+
+[[files]]
+file = "config/entity_texture_features.json"
+
+[[files]]
+file = "config/entityculling.json"
+
+[[files]]
+file = "config/etf_warnings.json"
+
+[[files]]
+file = "config/euphoria_patcher.properties"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+
+[[files]]
+file = "config/fancymenu/assets/bg_test.png"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_icon_16.png"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_icon_32.icns"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_icon_32.png"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_title.png"
+
+[[files]]
+file = "config/fancymenu/assets/discord_icon.png"
+
+[[files]]
+file = "config/fancymenu/assets/latias_latios_background.png"
+
+[[files]]
+file = "config/fancymenu/assets/pokedex_menu.png"
+
+[[files]]
+file = "config/fancymenu/assets/slideshow_frame.png"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/cobbleverse_main.txt"
+
+[[files]]
+file = "config/fancymenu/customization/cobbleverse_multiplayer_screen.txt"
+
+[[files]]
+file = "config/fancymenu/customization/cobbleverse_pause_menu.txt"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/AlfredoGym.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/AshHouse.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/BrockVSMisty.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/ChampionCamilla.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/CrownCemetery.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/DeoxysMeteorite.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/FannieGym.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/FlyingTaxi.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/FurioGym.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/GengarGmax.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/GroudonVolcano.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/HoennLeague.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/HouseFurnitures.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/JohtoLeague.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/KantoCartographer.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/KyogreTemple.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/LegendaryBirds.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/MegaZygardeVSMegaCharizardX.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/MistyGym.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/NecrozmaTowers.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/OriginTemple.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/PokeMart.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/PokemonCenter.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RadioTower.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RegidragoCave.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RegigigasTemple.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RegirockTemple.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/RegisteelTemple.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/SabrinaGym.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/SecretGarden.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/SinnohLeague.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/TeamRocket.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/TeamRocketRadio.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/images/WhirlIsland.png"
+
+[[files]]
+file = "config/fancymenu/slideshows/pokedex/properties.txt"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+
+[[files]]
+file = "config/fightorflight.json5"
+
+[[files]]
+file = "config/fightorflight_moves.json5"
+
+[[files]]
+file = "config/fightorflight_visual_effect.json5"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+
+[[files]]
+file = "config/forgivingvoid-common.toml"
+
+[[files]]
+file = "config/global_packs.toml"
+
+[[files]]
+file = "config/immediatelyfast.json"
+
+[[files]]
+file = "config/infinite-music-options.json"
+
+[[files]]
+file = "config/interactic.json5"
+
+[[files]]
+file = "config/iris-excluded.json"
+
+[[files]]
+file = "config/iris.properties"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+
+[[files]]
+file = "config/lenientdeath.json5"
+
+[[files]]
+file = "config/lithium.properties"
+
+[[files]]
+file = "config/lumymon.json"
+
+[[files]]
+file = "config/mega_showdown/config.json"
+
+[[files]]
+file = "config/midnightlib.json"
+
+[[files]]
+file = "config/mobsbegone-blacklist.json"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/modmenu.json"
+
+[[files]]
+file = "config/moreculling.toml"
+
+[[files]]
+file = "config/musicnotification.json"
+
+[[files]]
+file = "config/nethermap.toml"
+
+[[files]]
+file = "config/notenoughanimations.json"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+
+[[files]]
+file = "config/obc-common.toml"
+
+[[files]]
+file = "config/packetfixer.properties"
+
+[[files]]
+file = "config/particlerain.json"
+
+[[files]]
+file = "config/particular.json5"
+
+[[files]]
+file = "config/pingwheel.json"
+
+[[files]]
+file = "config/pingwheel.server.json"
+
+[[files]]
+file = "config/playerxp/playerxp.json"
+
+[[files]]
+file = "config/rctmod-client.toml"
+
+[[files]]
+file = "config/rctmod-server.toml"
+
+[[files]]
+file = "config/repurposed_structures.json"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+
+[[files]]
+file = "config/respackopts/_respackopts.conf"
+
+[[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+
+[[files]]
+file = "config/safepastures/safepastures.json"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+
+[[files]]
+file = "config/sodium-extra.properties"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+
+[[files]]
+file = "config/sodium-options.json"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
+file = "config/stackdeobf.json"
+
+[[files]]
+file = "config/tim_core.json"
+
+[[files]]
+file = "config/waystones-common.toml"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+
+[[files]]
+file = "config/xaerominimap.txt"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+
+[[files]]
+file = "config/yacl.json5"
+
+[[files]]
+file = "config/zoomify.json"
+
+[[files]]
+file = "datapacks/COBBLEVERSE - No Ender Dragon.zip"
+
+[[files]]
+file = "datapacks/COBBLEVERSE - No Hunger.zip"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-DP-v26.zip"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-Loot-DP-v8.zip"
+
+[[files]]
+file = "datapacks/COBBLEVERSE-RCT-DP-v16.zip"
+
+[[files]]
+file = "datapacks/Z-A-Mega-DP.zip"
+
+[[files]]
 file = "datapacks/allthemons-x-mega-showdown-legacy.pw.toml"
 metafile = true
 
@@ -19,6 +553,18 @@ metafile = true
 [[files]]
 file = "datapacks/cobblemon-swirlix-and-slurpuff.pw.toml"
 metafile = true
+
+[[files]]
+file = "datapacks/extra/COBBLEVERSE-Hoenn-DP.zip"
+
+[[files]]
+file = "datapacks/extra/COBBLEVERSE-Johto-DP.zip"
+
+[[files]]
+file = "datapacks/extra/COBBLEVERSE-Sinnoh-DP.zip"
+
+[[files]]
+file = "datapacks/extra/Terralith-DP.zip"
 
 [[files]]
 file = "datapacks/hydro-reanimodel-pack.pw.toml"
@@ -43,6 +589,459 @@ metafile = true
 [[files]]
 file = "datapacks/pokecenter-pc-cobblemon.pw.toml"
 metafile = true
+
+[[files]]
+file = "licenses/Accessories - License.txt"
+
+[[files]]
+file = "licenses/Accessories Compatibility Layer - License.txt"
+
+[[files]]
+file = "licenses/Advancement Plaques - License.txt"
+
+[[files]]
+file = "licenses/AdvancementDisable - License.txt"
+
+[[files]]
+file = "licenses/AllTheMons x Mega Showdown - License.txt"
+
+[[files]]
+file = "licenses/Architectury API - License.md"
+
+[[files]]
+file = "licenses/Athena - License.txt"
+
+[[files]]
+file = "licenses/Balm - License.md"
+
+[[files]]
+file = "licenses/Beautify Refabricated - License.txt"
+
+[[files]]
+file = "licenses/Better Beds - License.txt"
+
+[[files]]
+file = "licenses/Better F1 - License.txt"
+
+[[files]]
+file = "licenses/Better Nether Map - License.txt"
+
+[[files]]
+file = "licenses/Better Recipe Book - License.txt"
+
+[[files]]
+file = "licenses/BetterF3 - License.txt"
+
+[[files]]
+file = "licenses/Biome Replacer - License.txt"
+
+[[files]]
+file = "licenses/Canon PC Wallpapers - License.txt"
+
+[[files]]
+file = "licenses/Carved Wood - License.txt"
+
+[[files]]
+file = "licenses/CavsCobblemon - License.txt"
+
+[[files]]
+file = "licenses/Cloth Config API - License.md"
+
+[[files]]
+file = "licenses/CobbleCuisine - License.txt"
+
+[[files]]
+file = "licenses/CobbleFurnies - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon 3D Poke Rods - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Additions - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Capture XP - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Emissive Ores - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Fight or Flight - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Interface - License.md"
+
+[[files]]
+file = "licenses/Cobblemon Interface Modded - License.md"
+
+[[files]]
+file = "licenses/Cobblemon Journey Mounts - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Mega Showdown - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Pasture Loot - License.md"
+
+[[files]]
+file = "licenses/Cobblemon PlayerXP - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Pokenav - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon SafePastures - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon Tim Core - License.txt"
+
+[[files]]
+file = "licenses/Cobblemon UI Tweaks - License.txt"
+
+[[files]]
+file = "licenses/Cobbreeding - License.txt"
+
+[[files]]
+file = "licenses/Comforts - License.txt"
+
+[[files]]
+file = "licenses/Comforts Modernized - License.txt"
+
+[[files]]
+file = "licenses/Complementary Shaders - License.txt"
+
+[[files]]
+file = "licenses/Continuity - License.txt"
+
+[[files]]
+file = "licenses/Controlling - License.txt"
+
+[[files]]
+file = "licenses/Custom Splash Screen - License.txt"
+
+[[files]]
+file = "licenses/Debugify - License.txt"
+
+[[files]]
+file = "licenses/Default Options - License.md"
+
+[[files]]
+file = "licenses/E19 Cobblemon Minimap Icons - License.txt"
+
+[[files]]
+file = "licenses/Entity Culling - License.txt"
+
+[[files]]
+file = "licenses/Entity Model Features - License.txt"
+
+[[files]]
+file = "licenses/Entity Texture Features - License.txt"
+
+[[files]]
+file = "licenses/Euphoria Patches - License.txt"
+
+[[files]]
+file = "licenses/Fabric API - License.txt"
+
+[[files]]
+file = "licenses/Fabric Language Kotlin - License.txt"
+
+[[files]]
+file = "licenses/FancyMenu - License.md"
+
+[[files]]
+file = "licenses/FerriteCore - License.txt"
+
+[[files]]
+file = "licenses/Forge Config API Port - License.md"
+
+[[files]]
+file = "licenses/Forgiving Void - License.md"
+
+[[files]]
+file = "licenses/Fresh Animations - License.txt"
+
+[[files]]
+file = "licenses/Fresh Moves - License.txt"
+
+[[files]]
+file = "licenses/Fully Hisuian Starters - License.md"
+
+[[files]]
+file = "licenses/GeckoLib - License.txt"
+
+[[files]]
+file = "licenses/GlitchDex - License.txt"
+
+[[files]]
+file = "licenses/Handcrafted - License.txt"
+
+[[files]]
+file = "licenses/Highlight - License.md"
+
+[[files]]
+file = "licenses/Huge Structure Blocks - License.txt"
+
+[[files]]
+file = "licenses/Hydro Reanimodel Pack - License.txt"
+
+[[files]]
+file = "licenses/Iceberg - License.txt"
+
+[[files]]
+file = "licenses/ImmediatelyFast - License.txt"
+
+[[files]]
+file = "licenses/Interactic - License.txt"
+
+[[files]]
+file = "licenses/Iris Shaders - License.txt"
+
+[[files]]
+file = "licenses/Josh Poke Flute Pack - License.txt"
+
+[[files]]
+file = "licenses/Konkrete - License.txt"
+
+[[files]]
+file = "licenses/Krypton - License.txt"
+
+[[files]]
+file = "licenses/LackingMons - License.txt"
+
+[[files]]
+file = "licenses/Lenient Death - License.txt"
+
+[[files]]
+file = "licenses/LibJF - License.md"
+
+[[files]]
+file = "licenses/Lithium - License.md"
+
+[[files]]
+file = "licenses/Low Fire - License.txt"
+
+[[files]]
+file = "licenses/Lucky Cozy Home Refurnished - License.txt"
+
+[[files]]
+file = "licenses/MelloMons - License.txt"
+
+[[files]]
+file = "licenses/Melody - Keksuccino.txt"
+
+[[files]]
+file = "licenses/MidnightLib - License.txt"
+
+[[files]]
+file = "licenses/MissingMons - License.txt"
+
+[[files]]
+file = "licenses/Moar Concrete - License.txt"
+
+[[files]]
+file = "licenses/Mod Menu - License.txt"
+
+[[files]]
+file = "licenses/ModernFix - License.txt"
+
+[[files]]
+file = "licenses/More Culling - License.txt"
+
+[[files]]
+file = "licenses/MoreCobblemonTweaks - License.txt"
+
+[[files]]
+file = "licenses/Mouse Tweaks - License.txt"
+
+[[files]]
+file = "licenses/MundialMons - License.txt"
+
+[[files]]
+file = "licenses/Music Delay Remover - License.txt"
+
+[[files]]
+file = "licenses/Music Notification - License.txt"
+
+[[files]]
+file = "licenses/MysticMons - License.txt"
+
+[[files]]
+file = "licenses/NetherPortalFix - License.md"
+
+[[files]]
+file = "licenses/Not Enough Animations - License.txt"
+
+[[files]]
+file = "licenses/Not Enough Crashes - License.txt"
+
+[[files]]
+file = "licenses/OJs Animations - License.txt"
+
+[[files]]
+file = "licenses/Only Bottle Caps - License.txt"
+
+[[files]]
+file = "licenses/Original Pokemon Battle Music - License.txt"
+
+[[files]]
+file = "licenses/Packet Fixer - License.txt"
+
+[[files]]
+file = "licenses/PaginatedAdvancements - License.txt"
+
+[[files]]
+file = "licenses/Particle Rain - License.txt"
+
+[[files]]
+file = "licenses/Particular - License.txt"
+
+[[files]]
+file = "licenses/Permissions/Advancement Plaques - Modpack Permission.png"
+
+[[files]]
+file = "licenses/Permissions/AllTheMons x Mega Showdown - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/BadgeBox - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/CobbleDollars - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Eeveelutions Reimagined - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Fully Hisuian Starters - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Iceberg - Modpack Permission.png"
+
+[[files]]
+file = "licenses/Permissions/MobsBeGone - Modpack Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Navas Z-A Mega - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/OJs Animations - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Planeta Cobblemon - Permission.png"
+
+[[files]]
+file = "licenses/Permissions/Swirlix and Slurpuff - Permission.png"
+
+[[files]]
+file = "licenses/Ping Wheel - License.txt"
+
+[[files]]
+file = "licenses/PlanetaCobblemon - License.txt"
+
+[[files]]
+file = "licenses/Poke Discs - License.txt"
+
+[[files]]
+file = "licenses/PokeCenter PCs - License.txt"
+
+[[files]]
+file = "licenses/Pokeblocks - License.txt"
+
+[[files]]
+file = "licenses/Pokemans Pack - License.txt"
+
+[[files]]
+file = "licenses/Radical Cobblemon Trainers - License.md"
+
+[[files]]
+file = "licenses/Radical Cobblemon Trainers API - License.md"
+
+[[files]]
+file = "licenses/Reese Sodium Options - License.txt"
+
+[[files]]
+file = "licenses/Repurposed Structures - License.txt"
+
+[[files]]
+file = "licenses/Resource Pack Overrides - License.md"
+
+[[files]]
+file = "licenses/Resourceful Lib - License.txt"
+
+[[files]]
+file = "licenses/RespackOpts - License.md"
+
+[[files]]
+file = "licenses/Roughly Enough Items - License.txt"
+
+[[files]]
+file = "licenses/Sodium - License.md"
+
+[[files]]
+file = "licenses/Sodium Extra - License.txt"
+
+[[files]]
+file = "licenses/Sodium Options API - License.txt"
+
+[[files]]
+file = "licenses/Sophisticated Backpacks - License.txt"
+
+[[files]]
+file = "licenses/Sophisticated Core - License.txt"
+
+[[files]]
+file = "licenses/Sophisticated Storage - License.txt"
+
+[[files]]
+file = "licenses/Sound Physics Remastered - License.txt"
+
+[[files]]
+file = "licenses/Sounds Be Gone - License.txt"
+
+[[files]]
+file = "licenses/Stack Deobfuscator - License.txt"
+
+[[files]]
+file = "licenses/TDmon - License.txt"
+
+[[files]]
+file = "licenses/TMCraft - License.txt"
+
+[[files]]
+file = "licenses/Terralith - License.txt"
+
+[[files]]
+file = "licenses/ToolTipFix - License.txt"
+
+[[files]]
+file = "licenses/Trinkets - License.txt"
+
+[[files]]
+file = "licenses/Villager Config - License.txt"
+
+[[files]]
+file = "licenses/Waystones - License.md"
+
+[[files]]
+file = "licenses/Xaero Mimimap - License.txt"
+
+[[files]]
+file = "licenses/Xaero World Map - License.txt"
+
+[[files]]
+file = "licenses/YetAnotherConfigLib - License.txt"
+
+[[files]]
+file = "licenses/Zoomify - License.txt"
+
+[[files]]
+file = "licenses/owo-lib - License.txt"
+
+[[files]]
+file = "mods/Cobblemon-UI-Tweaks-1.0.7d.jar"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -139,6 +1138,9 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/cobblemon-journey-mounts.jar"
 
 [[files]]
 file = "mods/cobblemon-journey-mounts.pw.toml"
@@ -477,6 +1479,9 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sounds-be-gone-1.3.5.jar"
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 metafile = true
 
@@ -525,6 +1530,63 @@ file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ATMxMSD RP.zip"
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE RCTmod RP.zip"
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE RP.zip"
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE Soundtrack.zip"
+
+[[files]]
+file = "resourcepacks/CavsCobbleMons RP.zip"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface Modded.zip.rpo"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface.zip.rpo"
+
+[[files]]
+file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
+
+[[files]]
+file = "resourcepacks/GlitchDex RP.zip"
+
+[[files]]
+file = "resourcepacks/HydroReanimodel RP.zip"
+
+[[files]]
+file = "resourcepacks/LackingMons RP.zip"
+
+[[files]]
+file = "resourcepacks/MissingMons RP.zip"
+
+[[files]]
+file = "resourcepacks/MundialMons RP.zip"
+
+[[files]]
+file = "resourcepacks/MysticMons RP.zip"
+
+[[files]]
+file = "resourcepacks/Navas-Z-A-Mega RP.zip"
+
+[[files]]
+file = "resourcepacks/OJsAnimations RP.zip"
+
+[[files]]
+file = "resourcepacks/PlanetaCobblemon RP.zip"
+
+[[files]]
+file = "resourcepacks/Pokemans RP.zip"
+
+[[files]]
+file = "resourcepacks/TDmon RP.zip"
+
+[[files]]
 file = "resourcepacks/canon-pc-wallpapers.pw.toml"
 metafile = true
 
@@ -541,19 +1603,7 @@ file = "resourcepacks/cobblemon-emissive-ores.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobblemon-interface.pw.toml"
-metafile = true
-
-[[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 metafile = true
 
 [[files]]
@@ -579,6 +1629,2784 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/ComplementaryLicense.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/Credits.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/EuphoriaPatchesLicense.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/InformationEuphoriaPatches.md"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/Made for Complementary Shaders r5.5.1.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/pack.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/block.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/dimension.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/entity.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/item.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/en_US.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/ja_JP.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/pl_PL.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/ru_RU.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/uk_UA.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lang/zh_CN.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/antialiasing/fxaa.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/antialiasing/jitter.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/antialiasing/taa.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/auroraBorealis.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/bedrockNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/clouds/mainClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/endCrystalVortex.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/endPortalBeam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/enderBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/enderStars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/fog/bloomFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/fog/caveFactor.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/fog/coloredLightFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/fog/mainFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/fog/waterFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/netherNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/netherStorm.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/nightNebula.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/overworldBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/rainbow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/sky.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/stars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/atmospherics/volumetricLight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/blocklightColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/blocklightColorsACL.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/cloudColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/colorMultipliers.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/lightAndAmbientColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/moonPhaseInfluence.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/skyColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/colors/tonemaps.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/common.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/lighting/coloredBlocklight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/lighting/ggx.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/lighting/mainLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/lighting/shadowSampling.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/customMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/entityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/irisMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/materialDefines.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/coatedTextures.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/connectedGlass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/customEmission.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/generatedNormals.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/pomEffects.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/reflectionImpl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/reflections.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/refraction.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/snowyWorld.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/overlayNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/overlayNoiseApply.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/seasons.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/seasonsTime.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/others/signText.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/others/trident.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/candle.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/coral.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/dirt.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/lava.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/openEyeblossom.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/snow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/terrain/torchflower.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/materials/specificMaterials/translucents/water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/colorCodedPrograms.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/darkOutline.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/distantLightBokeh.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/distortWorld.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/endCrystalVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/handSway.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/leavesVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/lensFlare.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/pixelation.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/potato.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/puddleVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/shockwave.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/showLightLevels.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/voxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/misc/worldOutline.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/myFile.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/pipelineSettings.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/activateSettings.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/bloom.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/blueScreen.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/clouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/cloudsAndLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/colorMult.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/composite.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/composite2.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/composite3.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/composite5.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/deferred1.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/emissionMult.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/emissiveFlowers.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/endBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/enderStars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/entities.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/entityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/final.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/interactiveFoliage.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/lightAndAmbientColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/longExposure.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/mainFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/mainLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/materials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/overworldBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/raindropColor.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/settingsFileDefines.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/shockwave.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/stars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/volumetricLight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/wavingBlocks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/shaderSettings/worldMotionBlur.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/all_text_messages.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/color_code_info.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_apple_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_apple_dragon_death.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_apple_end_crystal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_apple_portal_beam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_coordinates_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_optifine_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_optifine_af.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_optifine_dragon_death.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_optifine_end_crystal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_optifine_portal_beam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_shadowdistance_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/error_shadows_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/new_Euphoria_Version.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/old_ssbl_error.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/old_version_ssbl_error.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textRendering/textRenderer.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/cloud-water.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/cloud-water.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/clouds_minecrafty-water.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/cucumber.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/cucumber.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/euphoria_patches.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/euphoria_patches.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/noise.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/noise.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/potato.png"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/textures/potato.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/uniforms.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/colorConversion.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/commonFunctions.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/dFdxdFdy.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/dither.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/miplevel.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/lib/util/spaceConversion.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite2.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite3.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite4.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite5.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite6.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite7.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite8.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/composite9.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/deferred1.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/dh_terrain.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/dh_water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/final.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_armor_glint.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_basic.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_beaconbeam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_block.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_clouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_damagedblock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_entities.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_hand.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_lightning.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_skybasic.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_skytextured.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_spidereyes.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_terrain.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_textured.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/gbuffers_weather.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/prepare.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/shadow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/shadowcomp.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/program/template.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/shaders.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world-1/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/prepare.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/prepare.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world0/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/prepare.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/prepare.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/shaders/world1/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - HIGH QUALITY/supportedMods.md"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/ComplementaryLicense.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/Credits.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/EuphoriaPatchesLicense.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/InformationEuphoriaPatches.md"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/Made for Complementary Shaders r5.5.1.txt"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/pack.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/block.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/dimension.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/entity.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/item.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/en_US.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/ja_JP.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/pl_PL.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/ru_RU.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/uk_UA.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lang/zh_CN.lang"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/antialiasing/fxaa.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/antialiasing/jitter.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/antialiasing/taa.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/auroraBorealis.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/bedrockNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/clouds/mainClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/endCrystalVortex.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/endPortalBeam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/enderBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/enderStars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/fog/bloomFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/fog/caveFactor.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/fog/coloredLightFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/fog/mainFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/fog/waterFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/netherNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/netherStorm.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/nightNebula.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/overworldBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/rainbow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/sky.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/stars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/atmospherics/volumetricLight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/blocklightColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/blocklightColorsACL.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/cloudColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/colorMultipliers.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/lightAndAmbientColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/moonPhaseInfluence.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/skyColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/colors/tonemaps.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/common.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/lighting/coloredBlocklight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/lighting/ggx.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/lighting/mainLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/lighting/shadowSampling.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/customMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/entityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/irisMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/materialDefines.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/coatedTextures.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/connectedGlass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/customEmission.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/generatedNormals.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/pomEffects.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/reflectionImpl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/reflections.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/refraction.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/snowyWorld.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/overlayNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/overlayNoiseApply.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/seasons.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/seasonsTime.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/others/signText.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/others/trident.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/candle.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/coral.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/dirt.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/lava.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/openEyeblossom.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/snow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/terrain/torchflower.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/materials/specificMaterials/translucents/water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/colorCodedPrograms.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/darkOutline.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/distantLightBokeh.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/distortWorld.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/endCrystalVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/handSway.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/leavesVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/lensFlare.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/pixelation.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/potato.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/puddleVoxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/shockwave.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/showLightLevels.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/voxelization.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/misc/worldOutline.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/myFile.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/pipelineSettings.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/activateSettings.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/bloom.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/blueScreen.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/clouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/cloudsAndLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/colorMult.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/composite.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/composite2.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/composite3.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/composite5.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/deferred1.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/emissionMult.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/emissiveFlowers.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/endBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/enderStars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/entities.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/entityMaterials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/final.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/interactiveFoliage.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/lightAndAmbientColors.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/longExposure.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/mainFog.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/mainLighting.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/materials.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/overworldBeams.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/raindropColor.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/settingsFileDefines.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/shockwave.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/stars.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/volumetricLight.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/wavingBlocks.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/shaderSettings/worldMotionBlur.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/all_text_messages.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/color_code_info.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_apple_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_apple_dragon_death.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_apple_end_crystal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_apple_portal_beam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_coordinates_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_optifine_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_optifine_af.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_optifine_dragon_death.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_optifine_end_crystal.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_optifine_portal_beam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_shadowdistance_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/error_shadows_acl.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/new_Euphoria_Version.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/old_ssbl_error.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/old_version_ssbl_error.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textRendering/textRenderer.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/cloud-water.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/cloud-water.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/clouds_minecrafty-water.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/cucumber.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/cucumber.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/euphoria_patches.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/euphoria_patches.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/noise.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/noise.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/potato.png"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/textures/potato.png.mcmeta"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/uniforms.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/colorConversion.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/commonFunctions.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/dFdxdFdy.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/dither.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/miplevel.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/lib/util/spaceConversion.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite2.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite3.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite4.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite5.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite6.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite7.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite8.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/composite9.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/deferred1.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/dh_terrain.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/dh_water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/final.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_armor_glint.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_basic.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_beaconbeam.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_block.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_clouds.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_damagedblock.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_entities.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_hand.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_lightning.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_skybasic.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_skytextured.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_spidereyes.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_terrain.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_textured.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_water.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/gbuffers_weather.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/prepare.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/shadow.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/shadowcomp.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/program/template.glsl"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/shaders.properties"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world-1/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/prepare.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/prepare.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world0/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite2.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite2.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite3.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite3.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite4.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite4.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite5.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite5.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite6.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite6.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite7.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite7.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite8.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite8.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite9.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/composite9.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/deferred1.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/deferred1.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/dh_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/dh_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/dh_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/dh_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/final.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/final.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_armor_glint.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_armor_glint.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_basic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_basic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_beaconbeam.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_beaconbeam.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_block.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_block.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_clouds.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_clouds.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_damagedblock.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_damagedblock.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_entities.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_entities.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_entities_glowing.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_entities_glowing.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_hand.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_hand.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_lightning.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_lightning.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_line.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_line.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_skybasic.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_skybasic.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_skytextured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_skytextured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_spidereyes.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_spidereyes.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_terrain.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_terrain.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_textured.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_textured.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_water.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_water.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_weather.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/gbuffers_weather.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/prepare.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/prepare.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/shadow.fsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/shadow.vsh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/shaders/world1/shadowcomp.csh"
+
+[[files]]
+file = "shaderpacks/Shaders - STANDARD/supportedMods.md"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
