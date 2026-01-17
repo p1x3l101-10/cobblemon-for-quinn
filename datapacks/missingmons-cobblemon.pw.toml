@@ -1,0 +1,13 @@
+name = "MissingMons [cobblemon]"
+filename = "MissingMon_v3.6 [1.7 Compatible Update ].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/I9Fq9oj1/MissingMon_v3.6%20%5B1.7%20Compatible%20Update%20%5D.zip"
+hash-format = "sha512"
+hash = "1c988328c817d87543e0ffdd4166b7aea7f8f2a323001e0c419bd2ccb9b747fbcee019384b58a12ac1989da87e068556fea5a282737640ca1c711bb887a2f8be"
+
+[update]
+[update.modrinth]
+mod-id = "jbbBrQVa"
+version = "I9Fq9oj1"

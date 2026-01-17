@@ -1,0 +1,13 @@
+name = "Cobblemon fast mounts"
+filename = "!Doctors Speed Boosts 4.0 balanced.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qGZxwa3O/versions/VWwxFM4K/%21Doctors%20Speed%20Boosts%204.0%20balanced.zip"
+hash-format = "sha512"
+hash = "b0fec296f8d7a7a8cb061570ec7178cfebb8e7ab1128d57ee6c26de38800f98ed3c47f1ae7b3721762fedaa594ad12384e81a5a38aef635794c42844fb10532f"
+
+[update]
+[update.modrinth]
+mod-id = "qGZxwa3O"
+version = "VWwxFM4K"
