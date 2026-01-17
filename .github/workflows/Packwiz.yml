@@ -19,6 +19,7 @@ jobs:
         with:
           ref: main
           path: main
+          lfs: true
       - name: build main pack
         working-directory: main
         run: |
