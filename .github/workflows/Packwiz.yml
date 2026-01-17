@@ -24,6 +24,7 @@ jobs:
           /usr/local/bin/packwiz refresh --build
   sign_files:
     runs-on: ubuntu-24.04
+    needs: build_packwiz_packs
     steps:
       - name: Get key
         env:
@@ -46,6 +47,7 @@ jobs:
           rm ~/.minisign/minisign.key
   upload_artifacts:
     runs-on: ubuntu-24.04
+    needs: sign_files
     steps:
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -58,7 +60,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build_packwiz_packs
+    needs: sign_files
     steps:
       - uses: actions/deploy-pages@v4
         id: deployment
