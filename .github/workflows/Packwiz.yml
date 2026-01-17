@@ -33,7 +33,7 @@ jobs:
           echo "$SIGNINGKEY_BASE64" | base64 --decode > ~/.minisign/minisign.key
       - name: Sign pack files
         run:
-          echo "" | minisign -Slm main/pack.toml -x main/unsup.sig
+          echo "" | minisign -Slm main/pack.toml -x main/unsup.sig;
           echo "" | minisign -Slm main/unsup.ini -x main/unsup.ini.sig
       - name: Remove key
         run:
