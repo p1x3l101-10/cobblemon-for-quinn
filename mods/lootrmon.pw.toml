@@ -1,0 +1,13 @@
+name = "Lootrmon: Lootr & Cobblemon Compatibility"
+filename = "lootrmon-fabric-1.21.1-0.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ywwXJDli/versions/eyU3Rw7X/lootrmon-fabric-1.21.1-0.0.0.1.jar"
+hash-format = "sha512"
+hash = "aaafeb3ca9011f4e555ca6ce08fabb34465a8bb97f1dcd848b35253d9e5828da28cd18bb418f9745afceab0976aecbba02c59801d1726e994098f730e443c33b"
+
+[update]
+[update.modrinth]
+mod-id = "ywwXJDli"
+version = "eyU3Rw7X"

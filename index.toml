@@ -1315,6 +1315,14 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootrmon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lumymon.pw.toml"
 metafile = true
 
