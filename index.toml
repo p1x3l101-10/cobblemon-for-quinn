@@ -1143,10 +1143,6 @@ metafile = true
 file = "mods/cobblemon-journey-mounts.jar"
 
 [[files]]
-file = "mods/cobblemon-journey-mounts.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 metafile = true
 
@@ -1168,10 +1164,6 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-ui-tweaks.pw.toml"
 metafile = true
 
 [[files]]
