@@ -1163,6 +1163,10 @@ file = "mods/cobblemon-safepastures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 metafile = true
 
