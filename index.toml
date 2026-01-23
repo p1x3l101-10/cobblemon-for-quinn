@@ -1171,6 +1171,10 @@ file = "mods/cobblemon-tim-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-trials-edition.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 metafile = true
 
@@ -1240,6 +1244,10 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
 metafile = true
 
 [[files]]
@@ -1387,6 +1395,10 @@ file = "mods/notenoughcrashes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/omnicompass.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/only-bottle-caps.pw.toml"
 metafile = true
 
@@ -1503,6 +1515,10 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/treetimber-treecapitator.pw.toml"
 metafile = true
 
 [[files]]

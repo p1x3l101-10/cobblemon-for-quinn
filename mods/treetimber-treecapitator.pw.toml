@@ -1,0 +1,13 @@
+name = "TreeTimber"
+filename = "TreeTimberFabric-1.21.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhTDuo6c/versions/QlaAfPUN/TreeTimberFabric-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "34657fa909f0a818574ce07f0659253c36328c3e03947072b779aae0facb9d3b210ada0dfe030a9f0accd6704d337b106304b77d6c4b8f77615ff2ccc2eef30b"
+
+[update]
+[update.modrinth]
+mod-id = "fhTDuo6c"
+version = "QlaAfPUN"

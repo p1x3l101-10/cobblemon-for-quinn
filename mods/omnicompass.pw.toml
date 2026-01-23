@@ -1,0 +1,13 @@
+name = "OmniCompass"
+filename = "OmniCompass-fabric-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eCgKR4yS/versions/b17FtxRl/OmniCompass-fabric-1.0.jar"
+hash-format = "sha512"
+hash = "cad8e8942700e57fe1ae39ff898abe4d576944401f6cebc7937d88b46995c86e36b6142739b7ef87817a027b8213a63c6d2e97dba85491ea3535bfd10d34a5d1"
+
+[update]
+[update.modrinth]
+mod-id = "eCgKR4yS"
+version = "b17FtxRl"
